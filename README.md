@@ -1,7 +1,7 @@
-# Progetos
+# Projetos
 
 Sou Odair Gabriel
-Cientista da Computação atuando como desenvolvedor web e desenvolvendo conteúdos didáticos.
+Ciêntista da Computação, atuando como desenvolvedor web e desenvolvendo conteúdos didáticos.
 
 Contato: 
 odavita32@gmail.com
